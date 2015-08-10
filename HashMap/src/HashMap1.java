@@ -7,7 +7,6 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-
 public class HashMap1 {
 
 	public static void main(String[] args) {
